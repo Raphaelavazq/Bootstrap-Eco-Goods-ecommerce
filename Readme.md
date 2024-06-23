@@ -1,6 +1,7 @@
 # EcoGoods E-Commerce
 
-This project is a fictional webshop named EcoGoods, specializing in eco-friendly, sustainable t-shirts. The site features a responsive design to ensure optimal layout on various screen sizes, interactive elements with hover states, and essential e-commerce functionalities.
+This project, EcoGoods E-Commerce, was developed as part of an exercise for my bootcamp at Beam Institute of Technology. Through this exercise, I learned how to rapidly prototype a responsive and user-friendly landing page using Bootstrap. The project involved creating a cohesive layout with a sticky navigation bar, hero section, product cards, carousel for testimonials, and a contact form. This experience enhanced my understanding of Bootstrap components, CSS customization, and the importance of responsive design in web development.
+
 
 ## Table of Contents
 
